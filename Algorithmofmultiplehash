@@ -1,0 +1,5 @@
+1. Generate password / get password
+2. Converting the password into hash ( ascii of the character )
+3. Converting the second hash ( convert decimal to hexadecimal )
+4. Adding third hash key ( Generating the random colour part )
+5. Store password
